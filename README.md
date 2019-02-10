@@ -1,2 +1,2 @@
-# tracalorie.github.io
+# tracalorie
 An App that tracks your Calorie intake.
